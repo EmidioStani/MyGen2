@@ -101,11 +101,11 @@
   "contributors-column": "CoreVoc",
   "contributors-file": "stakeholders.csv",
   "diagram": "Core_Person_publication",
-  "documentcommit": "dc457c528f287505bb7b07422ea2ede7a6e3450e",
+  "documentcommit": "5ded3305097ab818da4b416c225aedf09385b5a5",
   "documentconfig": {
     "changelog": "https://github.com/SEMICeu/Core-Person-Vocabulary/blob/master/releases/2.00/Changelog.md"
   },
-  "dummy": "2",
+  "dummy": "3",
   "eap": "CorePerson-test.EAP",
   "editors": [
     {
@@ -4819,14 +4819,14 @@
   "navigation": {},
   "properties": [],
   "publication-date": "2023-01-01",
-  "publication-state": "Semic Draft",
+  "publication-state": "Semic Recommendation",
   "repository": "git@github.com:EmidioStani/MyThema2.git",
   "repourl": "https://github.com/SEMICeu/Core-Person-Vocabulary/tree/master/releases/2.00",
   "site": "site-skeleton/core-person-test",
   "standaardregisterurl": "Core-Person-Vocabulary",
   "template": "core-person-ap_en.j2",
   "title": "Core Person Vocabulary",
-  "toolchaincommit": "b08e1da3d869377dca7e2feca9493b307d33107a",
+  "toolchaincommit": "6c6717dfbd392fdb8f05710504950ad37d1a5c27",
   "translation": [
     {
       "language": "en",

@@ -13,10 +13,10 @@
     "documentconfig": {
       "changelog": "https://github.com/SEMICeu/Core-Person-Vocabulary/blob/master/releases/2.00/Changelog.md"
     },
-    "status": "Semic Draft",
+    "status": "Semic Recommendation",
     "statuslabel": "Onbekend",
-    "repositoryurl": "git@github.com:EmidioStani/MyThema2.git/tree/dc457c528f287505bb7b07422ea2ede7a6e3450e",
-    "changelogurl": "git@github.com:EmidioStani/MyThema2.git/blob/dc457c528f287505bb7b07422ea2ede7a6e3450e/CHANGELOG",
+    "repositoryurl": "git@github.com:EmidioStani/MyThema2.git/tree/5ded3305097ab818da4b416c225aedf09385b5a5",
+    "changelogurl": "git@github.com:EmidioStani/MyThema2.git/blob/5ded3305097ab818da4b416c225aedf09385b5a5/CHANGELOG",
     "feedbackurl": "https://github.com/SEMICeu/Core-Person-Vocabulary/issues",
     "standaardregisterurl": "Core-Person-Vocabulary",
     "usesVocs": [],
