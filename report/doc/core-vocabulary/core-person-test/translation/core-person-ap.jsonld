@@ -4783,12 +4783,12 @@
     ],
     "config": "config/config-ap.json",
     "branchtag": "main",
-    "dummy": "3",
+    "dummy": "2",
     "filename": "config/core-person-test.json",
     "navigation": {},
     "repository": "git@github.com:EmidioStani/MyThema2.git",
     "urlref": "/doc/core-vocabulary/core-person-test",
     "documentcommit": "5ded3305097ab818da4b416c225aedf09385b5a5",
-    "toolchaincommit": "6c6717dfbd392fdb8f05710504950ad37d1a5c27",
+    "toolchaincommit": "7b5e8cb1785f060a514c115cd1f6690350008314",
     "hostname": "https://semiceu.github.io/"
 }
