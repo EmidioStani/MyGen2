@@ -105,7 +105,7 @@
   "documentconfig": {
     "changelog": "https://github.com/SEMICeu/Core-Person-Vocabulary/blob/master/releases/2.00/Changelog.md"
   },
-  "dummy": "1",
+  "dummy": "2",
   "eap": "CorePerson-test.EAP",
   "editors": [
     {
@@ -4826,7 +4826,7 @@
   "standaardregisterurl": "Core-Person-Vocabulary",
   "template": "core-person-ap_en.j2",
   "title": "Core Person Vocabulary",
-  "toolchaincommit": "26e11c58a9b594936f93c3572c97e7f43761dd98",
+  "toolchaincommit": "b08e1da3d869377dca7e2feca9493b307d33107a",
   "translation": [
     {
       "language": "en",
